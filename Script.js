@@ -136,7 +136,7 @@ document.body.innerHTML += `
 inverted button"><i class="github icon"></i>Open Source Code</a>    <div class="inline"><button class="ui primary button" id="addbot">Add Bots</button><button class="ui inverted red button" id="clearall">Clear All</button> <button class="ui right labeled icon button" id="watchtheroom">Watch The Room<i class="external link icon"></i></button>
 <a href="./finder.html" class="ui right floated
 inverted button"><i class="fire icon"></i>User Finder</a>
-<a href="Optimized.html" class="ui right floated
+<a href="Optimize.html" class="ui right floated
 inverted button"><i class="fire icon"></i>V1 (Old Version)</a></div> </div>
   </div>
 </div>
